@@ -9,6 +9,3 @@ Python Seaborn
      
 
 ### Statistics
-
-![alt text](https://img.youtube.com/vi/LZzq1zSL1bs/maxresdefault.jpg)
-![](https://www.freecodecamp.org/news/content/images/2021/08/pillars_ds.png)
